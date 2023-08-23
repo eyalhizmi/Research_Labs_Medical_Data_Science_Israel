@@ -1,5 +1,8 @@
 # Health and Data Science Israel Labs
 
+<details>
+<summary>Tel Aviv</summary>
+  
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
 | Anat Mirelman |Tel Aviv - Icililov|Neuroscience |[link](https://rnd.tasmc.org.il/laboratories/early-markers-of-neurodegeneration-laboratory-prof-anat-mirelman/)|
@@ -30,6 +33,13 @@
 | Dan Zeltzer |Tel Aviv |School of Economics |[link](https://sites.google.com/view/danzeltzer)|
 | Noam Shomron |Tel Aviv |Neuroscience |[link](https://nshomron.github.io/)|
 | Raja Giryes |Tel Aviv |Electrical Engineering |[link](https://www.giryes.sites.tau.ac.il/)|
+</details>
+
+<details>  
+<summary>Weizmann</summary>
+  
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Eran Segal |Weizmann |Computer Science & Applied Mathematics |[link]( )|
 | Yonina Eldar |Weizmann |Computer Science & Applied Mathematics |[link](https://www.weizmann.ac.il/math/yonina/)|
 | Meirav Galun |Weizmann |Weizmann Artificial Intelligence Center (WAIC) |[link](https://www.weizmann.ac.il/math/meirav/home)|
@@ -45,6 +55,13 @@
 | Eran Hornstein |Weizmann |  |[link](https://www.weizmann.ac.il/molgen/hornstein/)|
 | Uri Alon  |Weizmann |Molecular Cell Biology |[link](https://www.weizmann.ac.il/mcb/UriAlon/)|
 | Yifat Merbl |Weizmann |Department of Immunology |[link](https://www.yifatmerbl.com/)|
+</details>
+  
+<details>
+<summary>Technion</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Joachim Behar |Technion|Biomedical Engineering |[link](https://aim-lab.github.io/index.html)|
 | Moti Freiman |Technion|Biomedical Engineering |[link](https://tcml-bme.github.io/)|
 | Haim Azhari |Technion|Biomedical Engineering |[link](https://medical-imaging.net.technion.ac.il/)|
@@ -60,12 +77,26 @@
 | Shai Shen-Orr |Technion|Medicine |[link](https://shenorrlab.net.technion.ac.il/)|
 | Noam Kaplan |Technion|Medicine |[link](https://kaplanlab.technion.ac.il/)|
 | Signal and Image processing Lab |Technion|Electrical and Computer Engineering |[link](https://sipl.eelabs.technion.ac.il/)|
+</details>
+  
+<details>
+<summary>Bar Ilan</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Yaron Orenstein |Bar Ilan|computational biology |[link](https://yorenstein.wixsite.com/orensteinlab)|
 | Hanna Keren |Bar Ilan|neuroscience |[link](http://research.md.biu.ac.il/labs/hanna-keren/)|
 | Shahar Alon  |Bar Ilan|neuroscience  |[link](https://www.alonlab.org/)|
 | Yaara Erez |Bar Ilan|bioengineering  |[link](https://erezlab.org/lab-members/)|
 | Hamutal Slovin |Bar Ilan|Gonda Brain Research Center |[link](https://www.slovinlab.com/)|
 | Jacob Goldberger |Bar Ilan|Faculty of Engineering |[link](https://www.eng.biu.ac.il/goldbej/)|
+</details>
+  
+<details>
+<summary>Ben-Gurion</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Lior Rokach |Ben-Gurion|Information Systems Engineering |[link](https://www.ise.bgu.ac.il/faculty/liorr/)|
 | Oren Shriki |Ben-Gurion|Cognitive and Brain Sciences |[link](https://www.computational-psychiatry.com/)|
 | Nadav Rappoport |Ben-Gurion|Cognitive and Brain Sciences |[link](https://nadavrap.com/)|
@@ -83,6 +114,13 @@
 | Alon Friedman |Ben-Gurion|Cognitive and Brain Sciences |[link](https://www.bbbscience.com/team)|
 | Galia Avidan |Ben-Gurion|Psychology |[link](https://www.galiaavidanlab.com/)|
 | Lior Shmuelof |Ben-Gurion|neuroscience |[link](https://in.bgu.ac.il/en/humsos/bal/Pages/default.aspx)|
+</details>
+  
+<details>
+<summary>Hebrew</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | CIDR  |Hebrew |  |[link](https://cidr.huji.ac.il/en/team/)|
 | Leo Joskowicz |Hebrew |Computer Science |[link](https://www.cs.huji.ac.il/~josko/)|
 | Hagai Bergman |Hebrew |neuroscience |[link](https://elsc.huji.ac.il/people-directory/faculty-members/hagai-bergman/)|
@@ -96,9 +134,31 @@
 | Shai Carmi |Hebrew |  |[link](https://scarmilab.org/)|
 | Moran Yassour |Hebrew |  |[link](https://www.yassourlab.com/)|
 | Dafna Shahaf |Hebrew |Computer Science |[link]( )|
+</details>
+
+<details>
+<summary>Haifa</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Mor Peleg |Haifa|Information Systems |[link](https://sites.google.com/hevra.haifa.ac.il/mpeleg/home?authuser=0)|
 | Pavel Goldstein |Haifa|Public Health |[link](https://pain.haifa.ac.il/)|
+</details>
+
+<details>
+<summary>Ariel</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Chen Hajaj |Ariel| Industrial Engineering and Management |[link](https://www.ariel.ac.il/wp/chen-hajaj/)|
+</details>
+
+<details>
+<summary>HIT</summary>
+
+| Lab Name | Institute |  Department |Website|
+| - |--- | --- |--- |
 | Dror Lederman |HIT| Electrical and Computer Engineering |[link](https://scholar.google.com/citations?hl=en&user=fBq5j-4AAAAJ&view_op=list_works&sortby=pubdate)|
 | Arriel Benis |HIT|Digital Medical Technologies  |[link](https://scholar.google.co.il/citations?hl=en&user=ZSuQcaoAAAAJ&view_op=list_works&sortby=pubdate)|
 | Talia Tron |HIT|Digital Medical Technologies  |[link]( )|
+</details>
