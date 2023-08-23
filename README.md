@@ -1,5 +1,45 @@
 # Health and Data Science Israel Labs
 
+## Courses in Healthcare ML
+1. [MIT 6.S897 Machine Learning for Healthcare - Spring 2019](https://www.youtube.com/watch?v=vof7x8r_ZUA&list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
+2. [MIT RES.EC-001 Exploring Fairness in Machine Learning  - Spring 2020](https://www.youtube.com/watch?v=hvcYz4yzS0w&list=PLUl4u3cNGP63IFQn8FklBOUhYVcmaxpOX)
+3. [MIT Computational Biology: Genomes, Networks, Evolution, Health - Fall 2018](https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt])
+4. [Machine Learning for Genomics Fall 2020](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ)
+5. [Joachim Behar ML in Healthcare course in Technion](https://aim-lab.github.io/mlcourse)
+6. [Uri Alon Systems Medicine course ](https://www.youtube.com/playlist?list=PLLbr-B8cNbo7qigzS2ZDbDVpvjX26tGJ4) - not ML, just Medicine
+
+## Podcasts in Healthcare ML
+### International
+1. [Theory and Practice GV and Google AI](https://podcasts.google.com/feed/aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL3RoZW9yeS1hbmQtcHJhY3RpY2U?ep=14)
+2. [The AI health podcast Pranav Rajpurkar, Adriel Saporta, Oishi Banerjee, Marc Robbins](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9Dc1hmRG1CVw?ep=14)
+3. [MICCAI podcast](https://open.spotify.com/show/6AFl8C121TKfRng1iFI5lA)
+4. [Takeda Israel Podcast](https://www.takeda.com/he-il/our-stories/innovation/med.talk-podcast-new/)
+5. [TWIML AI](https://twimlai.com/shows/) שיש בו לא מעט פרקים רפואיים
+6. [This week in virology](https://www.microbe.tv/twiv/twiv-876/)
+7. [Karl Friston](https://open.spotify.com/episode/4n9lYVs8ii514apQp53CQK?si=rDuPrCslQgSQCB-4DKa_QA&nd=1) - investigations into consciousness
+
+### Local 
+1.  [דן ריזל ושי פרצ'יק מתראיינים לפודקאסט בוגרי ממר"ם על מכון המחקר של כללית](https://mamramic.podbean.com/e/clalitcorona/)
+2. [רן בליצר מתראיין לפודקאסט "30 דקות או פחות"](https://podcasts.apple.com/gh/podcast/%D7%A4%D7%A8%D7%95%D7%A4-%D7%A8%D7%9F-%D7%91%D7%9C%D7%99%D7%A6%D7%A8-%D7%95%D7%9E%D7%94%D7%A4%D7%9B%D7%AA-%D7%94%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA-%D7%94%D7%93%D7%99%D7%92%D7%99%D7%98%D7%99%D7%9C%D7%99%D7%AA/id1217141650?i=1000442385544)
+3. [הדס ביטרן (מייקרוסופט בריאות) מתראיינת לפודקאסט "30 דקות או פחות"](https://podcasts.apple.com/gh/podcast/%D7%94%D7%93%D7%A1-%D7%91%D7%99%D7%98%D7%A8%D7%9F-%D7%9E%D7%94-%D7%90%D7%9B%D7%A4%D7%AA-%D7%9C%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%A1%D7%95%D7%A4%D7%98-%D7%9E%D7%A2%D7%95%D7%9C%D7%9D-%D7%94%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA/id1217141650?i=1000451564711)
+
+## Conferences and talks in Healthcare ML
+1. [Lectures from digital medicine  conference 2021](https://www.digitalmedicineisrael.com/gallery/)
+2. [ML4H](https://ml4health.github.io/2021/)
+3. [MLHC](https://www.youtube.com/channel/UCt8n_CtkuWK2gdbDOijxnEg/playlists)
+4. [CHIL](https://www.chilconference.org/2020/tutorials.html)
+5. [World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022- Special Track onHealth Sciences, Systems and Technologies (HSST)]I(https://www.iiis2022.org/wmsci/website/About_hsst.asp?vc=1)
+
+## Conferences in Medical Imaging
+1. [MICCAI International Conference On Medical Image Computing & Computer Assisted Intervention](https://conferences.miccai.org/2022/)
+2. [ISBI - The IEEE International Symposium on Biomedical Imaging (ISBI](https://biomedicalimaging.org/2022/)
+3. [SPIE](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1)
+4. [CARS](https://www.cars-int.org/cars-2022/welcome-to-cars-2022)
+5. [MIDL](https://2022.midl.io)
+
+
+## Health and Data Science Israel Labs
+
 <details>
 <summary>Tel Aviv</summary>
   
