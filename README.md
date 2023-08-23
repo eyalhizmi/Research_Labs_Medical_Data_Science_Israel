@@ -1,4 +1,4 @@
-# Israel health and Data Science Labs
+# Health and Data Science Israel Labs
 
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
