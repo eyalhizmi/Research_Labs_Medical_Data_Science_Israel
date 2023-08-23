@@ -50,17 +50,17 @@
 7. [Clinical Trials data(https://classic.clinicaltrials.gov/ct2/resources/download#DownloadAllData) - al available l clinical trials records from clinicaltrials.gov website, in XML format.
 
   
-## Public Datasets - Text+Image/Time series
+### Public Datasets - Text+Image/Time series
 1. [MedPix (nih.gov)](https://medpix.nlm.nih.gov/home) - a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata
 2. [physionet](https://physionet.org/content/ptb-xl/1.0.3/) - EKG with short textual description
 
-## Pretrained BERTs
+### Pretrained BERTs
 1. [BioBERT](https://github.com/dmis-lab/biobert) - pre-trained on PubMed and PMC
 2. [SciBERT](https://github.com/allenai/scibert) - pre-trained on [semanticscholar.org](https://semanticscholar.org)
 3. [ClinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) - BioBert + MIMIC 
 4. [BlueBert](https://github.com/ncbi-nlp/bluebert) -  pre-trained on PubMed abstracts and clinical notes (MIMIC-III)
 
-## Parsers/NER
+### Parsers/NER
 1. [SciSpacy](https://allenai.github.io/scispacy/) - Spacy pipeline and NER trained on biomedical data
 2. [Stanza biomedical](https://stanfordnlp.github.io/stanza/available_biomed_models.html) - NER trained on biomedical data and clinical notes (MIMIC-III)
 3. [MetaMap](https://metamap.nlm.nih.gov/) (based on UMLS)
@@ -72,6 +72,95 @@
 9. [MDTEL](https://github.com/yonatanbitton/mdtel) - Hebrew UMLS  NER using transliteration
 10. [EHRKit 2022](https://github.com/yale-lily/ehrkit-2022) - A Python Natural Language Processing Toolkit for Electronic Health Record Texts.
 11. [BERN](https://github.com/dmis-lab/bern) - NER and entity linking (to MESH) for medical texts
+
+### Ontologies\lexicons
+1. [UMLS](https://www.nlm.nih.gov/research/umls/knowledge_sources/metathesaurus/index.html)
+2. [RadLex](http://radlex.org/) - radiology
+3. [gamuts](http://www.gamuts.net/) - radiology
+4. [MeSh](https://www.ncbi.nlm.nih.gov/mesh/)
+5. [לקסיקונים פסיכולוגיים בעברית](https://www.aclweb.org/anthology/2021.clpsych-1.6/)
+6. [Infomed](https://www.infomed.co.il/definitions/) - רשימת מונחים רפואיים בעברית (מחלות, תרופות, פרוצדורות)
+7. [grid](https://grid.ac/) - list of academic (medical) research institutes
+8. [FDA drugs data files](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)  - FDA drugs data, updates weekly on Tuesdays
+9. [DrugBank](https://go.drugbank.com/) - Drugs lexicon, free for non-profit uses
+10. [ATC-WHO](https://www.whocc.no/atc_ddd_index/) - Drugs by the ATC ontology 
+11. Medical abbreviations dictionaries 1: [imantsm](https://github.com/imantsm/medical_abbreviations)
+12. Medical abbreviations dictionaries 2: [KumaTea]https://github.com/KumaTea/medical-abbreviations
+13. [RxNav](https://lhncbc.nlm.nih.gov/RxNav/) - browser and API for the RxNorm medication ontology, includes mapping to other drug ontologies, coding, and classification systems such as NDC, MESH, ATC, MED-RT, VA and FDA classes.
+14. [BioPortal](https://bioportal.bioontology.org/ontologies) - browser and API for a very large range of bio-medical ontologies.
+
+### PDF to text
+1. [Textract](https://textract.readthedocs.io/en/stable/python_package.html) - extracts text from PDF, DOCX
+2. [Pytesseract](https://pypi.org/project/pytesseract/) - OCR based package for scanned text
+
+### NLP courses
+1. [Stanford CS224N](http://web.stanford.edu/class/cs224n/): NLP with Deep Learning
+2. [NLP @ BIU](https://www.youtube.com/watch?v=r2xQzSPlBn4&t=41s&ab_channel=CSBIUStudents) עיבוד שפות טבעיות - פרופ' יואב גולדברג, פרופ' עידו דגן
+
+## Computer Vision / Image Processing
+*Algorithmic Resources only (please put courses, podcasts & conferences in previous pages)
+### Public Datasets
+1. [Grand Challenge](https://grand-challenge.org/) - Datasets for challenges  in biomedical imaging. 
+2. [keggle - chest-xray-pneumonia](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) - chest images with and without pneumonia
+3. [CT Medical Images | Kaggle](https://www.kaggle.com/datasets/kmader/siim-medical-images) - Kaggle dataset of CT images
+4. [X-rays Chest| Kaggle](https://www.kaggle.com/datasets/nih-chest-xrays/data) - kaggle chest images with labels
+5. [MIMIC III](https://mimic.mit.edu/) -  radiology scans dataset (chest x-rays)
+6. [Brain MRI Images for Brain Tumor Detection | Kaggle](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) - Kaggle dataset with Bain MRI images
+
+## Structured (Tabular) Dat
+*Algorithmic Resources only (please put courses, podcasts & conferences in previous pages)
+### Public Datasets
+1. [National Ambulatory Care Survey (NAMCS)](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm) - annual representative sample of ambulatory care visits in the USA (single visits). Documents reason for visit, diagnoses, prescriptions, tests and procedures ordered at visit, includes demographic, some medical history, some measurements and some recent lab values. 
+2. [National Hospital Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/datasets_documentation_related.htm), idem but recording emergency room visits. 
+3. [Medical Expenditure Panel Survey](https://meps.ahrq.gov/data_stats/download_data_files.jsp) - ongoing survey of US households. Documents health and financial related data, including doctor visits and prescriptions (including diagnoses), health behavior, quality of life metrics, demographics, etc. Data on participants is collected every six months for 2.5 years.
+4. [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.htm) - annual survey of health and nutrition, representative of the US population. Includes detailed data on a wide range of lab values and nutrition, as well as data on various measures (BP, weight, audiometry, etc), prescriptions, medical history, and other health related questions. 
+5. [Vaccine Adverse Event Reporting System (VAERS)](https://vaers.hhs.gov/data.html) - all vaccine adverse event reports submitted to the CDC from around the world. Includes case-level data on demographics, vaccine, adverse event and outcome. Description of the adverse event both structured (medDRA) and free text.
+6. [FDA Adverse Event Reporting System (FAERS)](https://www.fda.gov/drugs/surveillance/questions-and-answers-fdas-adverse-event-reporting-system-faers) - all drug adverse events submitted to the FDA from around the world. Includes case-level data on demographics, vaccine, adverse event and outcome. Description of the adverse event in only structured (medDRA) format. Free text can be received by special request.
+
+## Causal inference
+### Podcasts
+1. [Causal inference podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9jYXN1YWxpbmZlci5saWJzeW4uY29tL3Jzcw?ep=14): Lucy D'Agostino, McGowan and Ellie Murray (not necessary in healthcare )
+2. [Yoshua Bengio answers questions](https://www.youtube.com/watch?app=desktop&v=M49TMqK5uCE&feature=youtu.be)
+
+## Courses
+1. [Neil Brady course](https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
+2. [Stanford 2021](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
+3. [Causal Diagrams course](https://www.edx.org/course/causal-diagrams-draw-your-assumptions-before-your)
+
+Resources from https://discuss.causality.link/
+
+Useful Resources:
+
+Code Tutorial by Alexandre Drouin on various topics featuring Simpson's paradox, identification through adjustment and estimation using machine learning
+
+Code Tutorial by Matej Zečević on various topics featuring why we actually need causality, the Pearlian causal hierarchy and bounding causal effects
+
+“The Book of Why” (2018) by Judea Pearl & Dana Mackenzie for an intuitive, general audience introduction into Pearlian causality
+
+“Causality” Book (CUP, 2009) by Judea Pearl as the original, rigorous treatise on Pearlian causality
+
+“Elements of Causal Inference” (MITP, 2017) by Jonas Peters et al. providing different and additional perspective on Pearlian causality especially w.r.t. machine learning
+
+Lecture Series “Causality” by Jonas Peters (2017) covering key topics from the previously listed literature (focus on Peters et al.)
+
+Online Course ”Introduction to Causal Inference” by Brady Neal (2020) covering key topics from the previously listed literature (focus on Pearl)
+
+Lecture “Causal Data Science” by Elias Bareinboim (2019) on several advanced topics as well as future perspectives on the field
+
+“Causal Inference in Statistics” by Judea Pearl et al. (2016) compressed view on Pearlian causality for a statistics educated audience
+
+From: [https://discuss.causality.link/](https://discuss.causality.link/)
+
+### Books
+1. [Scott Cunningham book on causal inference](https://mixtape.scunning.com/)
+2. [The Effect Nick Huntington-Klein](https://www.theeffectbook.net/)
+3. ["What If" by Hernan and and Robins](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2022/09/hernanrobins_WhatIf_15sep22.pdf)
+
+## Data Science
+###Python Packages
+1. [PyDTS](https://tomer1812.github.io/pydts/) - Discrete-Time Survival Analysis with Competing Events 
+2. [PyMSM](https://hrossman.github.io/pymsm/) - Competing Risks and Multi-State Models 
+3. [Auton Survival](https://github.com/autonlab/auton-survival) - An open source package for Regression, Counterfactual Estimation, Evaluation and Phenotyping with Censored Time-to-Events
 
 
 
