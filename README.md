@@ -2,7 +2,7 @@
 
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
-| Prof. Anat Mirelman |Tel Aviv - Icililov|Neuroscience |[link](https://rnd.tasmc.org.il/laboratories/early-markers-of-neurodegeneration-laboratory-prof-anat-mirelman/)|
+| Anat Mirelman |Tel Aviv - Icililov|Neuroscience |[link](https://rnd.tasmc.org.il/laboratories/early-markers-of-neurodegeneration-laboratory-prof-anat-mirelman/)|
 | Dafna Ben Bashat |Tel Aviv - Icililov|Neuroscience |[link](https://www.cbf-tlv.com/dafna-ben-bashat)|
 | Nir Giladi |Tel Aviv - Icililov|Medical  |[link]( )|
 | Talma Hendler |Tel Aviv - Icililov|Neuroscience |[link]( )|
@@ -11,7 +11,7 @@
 | Zohar Yosibash |Tel Aviv - Icililov|Mechanical Engineering |[link](https://rnd.tasmc.org.il/laboratories/center-for-interdisciplinary-innovation-in-bone-healthcare/)|
 | Nitzan Shahar |Tel Aviv |Neuroscience |[link](https://www.shahar-lab.com/home)|
 | Or Perlman |Tel Aviv |Bio-Medical Engineering |[link](https://mri-ai.github.io/)|
-| Prof. Yaniv Assaf |Tel Aviv |Neuroscience |[link](https://www.yalab.sites.tau.ac.il/)|
+| Yaniv Assaf |Tel Aviv |Neuroscience |[link](https://www.yalab.sites.tau.ac.il/)|
 | Amir Globerson |Tel Aviv |Computer science  |[link]( )|
 | Yuval Nir |Tel Aviv |Neuroscience |[link](https://yuvalnirlab.com/)|
 | Noam Ben-Eliezer |Tel Aviv|Bio-Medical Engineering |[link]( )|
