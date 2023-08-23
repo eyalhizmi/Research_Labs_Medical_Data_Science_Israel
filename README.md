@@ -28,7 +28,7 @@
 2. [ML4H](https://ml4health.github.io/2021/)
 3. [MLHC](https://www.youtube.com/channel/UCt8n_CtkuWK2gdbDOijxnEg/playlists)
 4. [CHIL](https://www.chilconference.org/2020/tutorials.html)
-5. [World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022- Special Track onHealth Sciences, Systems and Technologies (HSST)]I(https://www.iiis2022.org/wmsci/website/About_hsst.asp?vc=1)
+5. [World Multi-Conference on Systemics, Cybernetics and Informatics: WMSCI 2022](https://www.iiis2022.org/wmsci/website/About_hsst.asp?vc=1)- Special Track onHealth Sciences, Systems and Technologies
 
 ## Conferences in Medical Imaging
 1. [MICCAI International Conference On Medical Image Computing & Computer Assisted Intervention](https://conferences.miccai.org/2022/)
@@ -36,6 +36,43 @@
 3. [SPIE](https://spie.org/conferences-and-exhibitions/medical-imaging?SSO=1)
 4. [CARS](https://www.cars-int.org/cars-2022/welcome-to-cars-2022)
 5. [MIDL](https://2022.midl.io)
+
+
+## Natural Language Processing*
+*Algorithmic Resources only (please put courses, podcasts & conferences in previous pages)
+### Public Datasets 
+1. [CADEC](https://data.csiro.au/collections/collection/CIcsiro:10948/SQcadec/RP1/RS25/RORELEVANCE/STsearch-by-keyword/RI1/RT1/) - medical forum posts on patient reported Adverse Drug Events, annotated for Named Entities
+2. [MIMIC III](https://mimic.mit.edu/) -  medical notes dataset
+3. [MedQA](https://www.mdpi.com/2076-3417/11/14/6421) - medical question answering dataset
+4. [MDTEL](https://github.com/yonatanbitton/mdtel) - 800 posts in Hebrew from “Camoni” website, labeled for UMLS terms of Diabetes
+5. [Clinical Patient scoring in Kaggle](https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/data) -dataset for Identifying Key Phrases in Patient Notes from Medical Licensing Exams (USMLE)
+6. [Dataset for Automated Medical Transcription | Zenodo](https://zenodo.org/record/4279041#.ZF1xdRFBy5d) -dataset containing transcripts and case notes, for automatically generating psychiatric case notes from doctor-patient conversations
+7. [Clinical Trials data(https://classic.clinicaltrials.gov/ct2/resources/download#DownloadAllData) - al available l clinical trials records from clinicaltrials.gov website, in XML format.
+
+  
+## Public Datasets - Text+Image/Time series
+1. [MedPix (nih.gov)](https://medpix.nlm.nih.gov/home) - a free open-access online database of medical images, teaching cases, and clinical topics, integrating images and textual metadata
+2. [physionet](https://physionet.org/content/ptb-xl/1.0.3/) - EKG with short textual description
+
+## Pretrained BERTs
+1. [BioBERT](https://github.com/dmis-lab/biobert) - pre-trained on PubMed and PMC
+2. [SciBERT](https://github.com/allenai/scibert) - pre-trained on [semanticscholar.org](https://semanticscholar.org)
+3. [ClinicalBERT](https://github.com/EmilyAlsentzer/clinicalBERT) - BioBert + MIMIC 
+4. [BlueBert](https://github.com/ncbi-nlp/bluebert) -  pre-trained on PubMed abstracts and clinical notes (MIMIC-III)
+
+## Parsers/NER
+1. [SciSpacy](https://allenai.github.io/scispacy/) - Spacy pipeline and NER trained on biomedical data
+2. [Stanza biomedical](https://stanfordnlp.github.io/stanza/available_biomed_models.html) - NER trained on biomedical data and clinical notes (MIMIC-III)
+3. [MetaMap](https://metamap.nlm.nih.gov/) (based on UMLS)
+4. [AWS comprehend medical](https://aws.amazon.com/comprehend/medical/) (paid)
+5. [Spark-NLP (John Snow Labs)](https://www.johnsnowlabs.com/spark-nlp-health/) (paid)
+6. [Microsoft Text Analytics for Health](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?tabs=ner#structure-the-api-request-for-the-hosted-asynchronous-web-api) (paid)
+7. [https://www.semanticscholar.org/product/tldr](https://www.semanticscholar.org/product/tldr) - Tldr for papers
+8. [https://github.com/yonatanbitton/mdtel](https://github.com/yonatanbitton/mdtel) - for hebrew medical texts
+9. [MDTEL](https://github.com/yonatanbitton/mdtel) - Hebrew UMLS  NER using transliteration
+10. [EHRKit 2022](https://github.com/yale-lily/ehrkit-2022) - A Python Natural Language Processing Toolkit for Electronic Health Record Texts.
+11. [BERN](https://github.com/dmis-lab/bern) - NER and entity linking (to MESH) for medical texts
+
 
 
 ## Health and Data Science Israel Labs
