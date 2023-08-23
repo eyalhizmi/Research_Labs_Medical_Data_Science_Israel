@@ -7,28 +7,28 @@
 | - |--- | --- |--- |
 | Anat Mirelman |Tel Aviv - Icililov|Neuroscience |[link](https://rnd.tasmc.org.il/laboratories/early-markers-of-neurodegeneration-laboratory-prof-anat-mirelman/)|
 | Dafna Ben Bashat |Tel Aviv - Icililov|Neuroscience |[link](https://www.cbf-tlv.com/dafna-ben-bashat)|
-| Nir Giladi |Tel Aviv - Icililov|Medical  |[link]( )|
-| Talma Hendler |Tel Aviv - Icililov|Neuroscience |[link]( )|
+| Nir Giladi |Tel Aviv - Icililov|Medical  |[link](https://en-sagol.tau.ac.il/researchers/Nir-Giladi)|
+| Talma Hendler |Tel Aviv - Icililov|Neuroscience |[link](https://www.cbf-tlv.com/talma-hendler)|
 | Meir Plotnik |Tel Aviv - Sheba|Multidisciplinary center |[link](www.catr-sheba.sites.tau.ac.il)|
 | Jeff Hausdorff |Tel Aviv - Icililov|  |[link](https://rnd.tasmc.org.il/laboratories/center-for-the-study-of-movement-cognition-and-mobility-prof-jeff-hausdorff/)|
 | Zohar Yosibash |Tel Aviv - Icililov|Mechanical Engineering |[link](https://rnd.tasmc.org.il/laboratories/center-for-interdisciplinary-innovation-in-bone-healthcare/)|
 | Nitzan Shahar |Tel Aviv |Neuroscience |[link](https://www.shahar-lab.com/home)|
 | Or Perlman |Tel Aviv |Bio-Medical Engineering |[link](https://mri-ai.github.io/)|
 | Yaniv Assaf |Tel Aviv |Neuroscience |[link](https://www.yalab.sites.tau.ac.il/)|
-| Amir Globerson |Tel Aviv |Computer science  |[link]( )|
+| Amir Globerson |Tel Aviv |Computer science  |[link](https://cs3801.wixsite.com/amirgloberson)|
 | Yuval Nir |Tel Aviv |Neuroscience |[link](https://yuvalnirlab.com/)|
-| Noam Ben-Eliezer |Tel Aviv|Bio-Medical Engineering |[link]( )|
+| Noam Ben-Eliezer |Tel Aviv|Bio-Medical Engineering |[link](https://www.noambelab.sites.tau.ac.il/)|
 | Roy Mukamel |Tel Aviv |Neuroscience |[link](https://www.mukamelab.sites.tau.ac.il/)|
 | Yaniv Assaf |Tel Aviv |Neuroscience |[link](https://www.tau.ac.il/~idotavor/)|
-| Irit Shapira-Lichter |Tel Aviv |Neuroscience |[link]( )|
-| Lior Wolf |Tel Aviv |Computer science  |[link]( )|
+| Irit Shapira-Lichter |Tel Aviv |Neuroscience |[link](https://en-sagol.tau.ac.il/researchers/Irit-Shapira-Lichter)|
+| Lior Wolf |Tel Aviv |Computer science  |[link](https://www.cs.tau.ac.il/~wolf/)|
 | Ran Gilad-Bachrach |Tel Aviv |Bio-Medical Engineering |[link](https://www.mlwell.org/)|
-| Hayit Greenspan |Tel Aviv |Bio-Medical Engineering |[link]( )|
+| Hayit Greenspan |Tel Aviv |Bio-Medical Engineering |[link](https://english.tau.ac.il/profile/hayitg)|
 | Natan T. Shaked |Tel Aviv |Bio-Medical Engineering |[link](https://www.eng.tau.ac.il/~omni/index2.php/)|
 | Dan Raviv |Tel Aviv |Electrical Engineering |[link](https://www.raviv.sites.tau.ac.il/)|
 | Tamir Bendory |Tel Aviv |Electrical Engineering |[link](https://www.tau.ac.il/~bendory/)|
 | Yael Hanein |Tel Aviv |Electrical Engineering |[link](https://www.yaelhanein.sites.tau.ac.il/)|
-| Moran Artzi |Tel Aviv |Neuroscience |[link]( )|
+| Moran Artzi |Tel Aviv |Neuroscience |[link](https://www.cbf-tlv.com/moran-artzi)|
 | Adi Stern |Tel Aviv |Computational Biology |[link](https://www.sternadi.com/)|
 | Dan Zeltzer |Tel Aviv |School of Economics |[link](https://sites.google.com/view/danzeltzer)|
 | Noam Shomron |Tel Aviv |Neuroscience |[link](https://nshomron.github.io/)|
@@ -40,7 +40,7 @@
   
 | Lab Name | Institute |  Department |Website|
 | - |--- | --- |--- |
-| Eran Segal |Weizmann |Computer Science & Applied Mathematics |[link]( )|
+| Eran Segal |Weizmann |Computer Science & Applied Mathematics |[link](https://scholar.google.com/citations?user=oAD8PrkAAAAJ&hl=iw)|
 | Yonina Eldar |Weizmann |Computer Science & Applied Mathematics |[link](https://www.weizmann.ac.il/math/yonina/)|
 | Meirav Galun |Weizmann |Weizmann Artificial Intelligence Center (WAIC) |[link](https://www.weizmann.ac.il/math/meirav/home)|
 | Boaz Nadle |Weizmann |Computer Science & Applied Mathematics |[link](https://www.weizmann.ac.il/math/Nadler/)|
@@ -133,7 +133,7 @@
 | Or Zuk |Hebrew |  |[link](https://pluto.huji.ac.il/~orzu/index.html)|
 | Shai Carmi |Hebrew |  |[link](https://scarmilab.org/)|
 | Moran Yassour |Hebrew |  |[link](https://www.yassourlab.com/)|
-| Dafna Shahaf |Hebrew |Computer Science |[link]( )|
+| Dafna Shahaf |Hebrew |Computer Science |[link](https://www.cs.huji.ac.il/page/2517)|
 </details>
 
 <details>
@@ -160,5 +160,5 @@
 | - |--- | --- |--- |
 | Dror Lederman |HIT| Electrical and Computer Engineering |[link](https://scholar.google.com/citations?hl=en&user=fBq5j-4AAAAJ&view_op=list_works&sortby=pubdate)|
 | Arriel Benis |HIT|Digital Medical Technologies  |[link](https://scholar.google.co.il/citations?hl=en&user=ZSuQcaoAAAAJ&view_op=list_works&sortby=pubdate)|
-| Talia Tron |HIT|Digital Medical Technologies  |[link]( )|
+| Talia Tron |HIT|Digital Medical Technologies  |[link](https://scholar.google.com/citations?user=12znWd8AAAAJ&hl=en)|
 </details>
